@@ -1,0 +1,4 @@
+org.mycompany.installer.wizard.components.panels.PostInstallSummaryPanel$PostInstallSummaryPanelUi
+org.mycompany.installer.wizard.components.panels.PostInstallSummaryPanel
+org.mycompany.installer.wizard.components.panels.PostInstallSummaryPanel$PostInstallSummaryPanelSwingUi
+org.mycompany.installer.wizard.components.panels.PostInstallSummaryPanel$PostInstallSummaryPanelSwingUi$1

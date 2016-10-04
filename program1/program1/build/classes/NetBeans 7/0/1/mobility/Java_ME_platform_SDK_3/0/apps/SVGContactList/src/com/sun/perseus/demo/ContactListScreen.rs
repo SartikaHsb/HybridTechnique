@@ -1,0 +1,10 @@
+com.sun.perseus.demo.ContactListScreen$SelectedContactItemBinder
+com.sun.perseus.demo.ContactListScreen$6
+com.sun.perseus.demo.ContactListScreen$5
+com.sun.perseus.demo.ContactListScreen$JumpToRunnable
+com.sun.perseus.demo.ContactListScreen$1
+com.sun.perseus.demo.ContactListScreen$2
+com.sun.perseus.demo.ContactListScreen
+com.sun.perseus.demo.ContactListScreen$3
+com.sun.perseus.demo.ContactListScreen$4
+com.sun.perseus.demo.ContactListScreen$CommonContactItemBinder

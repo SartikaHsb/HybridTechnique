@@ -1,0 +1,10 @@
+example.payment.jbricks.Menu$BuyLifeMenu
+example.payment.jbricks.Menu$SettingsMenu
+example.payment.jbricks.Menu$LevelMenu
+example.payment.jbricks.Menu$InfoMenu
+example.payment.jbricks.Menu$BuyLevelMenu
+example.payment.jbricks.Menu$HistoryMenu
+example.payment.jbricks.Menu$MenuItem
+example.payment.jbricks.Menu$AbstractMenu
+example.payment.jbricks.Menu
+example.payment.jbricks.Menu$MainMenu

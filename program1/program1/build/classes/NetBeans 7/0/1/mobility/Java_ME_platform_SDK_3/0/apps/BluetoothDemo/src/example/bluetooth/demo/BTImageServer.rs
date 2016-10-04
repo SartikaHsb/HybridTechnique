@@ -1,0 +1,2 @@
+example.bluetooth.demo.BTImageServer$ClientProcessor
+example.bluetooth.demo.BTImageServer

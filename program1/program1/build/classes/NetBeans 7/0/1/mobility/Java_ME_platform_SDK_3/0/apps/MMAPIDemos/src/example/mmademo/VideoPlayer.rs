@@ -1,0 +1,2 @@
+example.mmademo.VideoPlayer$SnapshotThread
+example.mmademo.VideoPlayer

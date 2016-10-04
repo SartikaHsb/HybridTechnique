@@ -1,0 +1,8 @@
+com.sun.perseus.demo.locationBasedService.LocationBasedService
+com.sun.perseus.demo.locationBasedService.LocationBasedService$FinalDisplay
+com.sun.perseus.demo.locationBasedService.LocationBasedService$InitialDisplay
+com.sun.perseus.demo.locationBasedService.LocationBasedService$Rotator
+com.sun.perseus.demo.locationBasedService.LocationBasedService$LocationBasedServiceAnim
+com.sun.perseus.demo.locationBasedService.LocationBasedService$3
+com.sun.perseus.demo.locationBasedService.LocationBasedService$1
+com.sun.perseus.demo.locationBasedService.LocationBasedService$2

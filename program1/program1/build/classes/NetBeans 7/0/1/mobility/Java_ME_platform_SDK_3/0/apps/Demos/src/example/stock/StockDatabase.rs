@@ -1,0 +1,3 @@
+example.stock.StockDatabase$StockComparator
+example.stock.StockDatabase$StockFilter
+example.stock.StockDatabase

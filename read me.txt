@@ -1,0 +1,3 @@
+Program1 merupakan aplikasi java yang dibuka melalui editor netbean.
+Program ini membutuhkan library weka dan libsvm.
+Output dari akurasi, model klasifikasi dan prediksi disimpan pada file.

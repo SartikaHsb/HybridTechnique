@@ -1,0 +1,3 @@
+com.superscape.m3g.wtksamples.retainedmode.RetainedModeMidlet
+com.superscape.m3g.wtksamples.retainedmode.RetainedModeMidlet$RefreshTask
+com.superscape.m3g.wtksamples.retainedmode.RetainedModeMidlet$JesterCanvas

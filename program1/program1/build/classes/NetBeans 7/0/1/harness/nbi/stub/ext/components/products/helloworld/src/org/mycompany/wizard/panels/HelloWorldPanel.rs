@@ -1,0 +1,3 @@
+org.mycompany.wizard.panels.HelloWorldPanel
+org.mycompany.wizard.panels.HelloWorldPanel$HelloWorldPanelUi
+org.mycompany.wizard.panels.HelloWorldPanel$HelloWorldPanelSwingUi
